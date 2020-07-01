@@ -1,30 +1,11 @@
 # Jobs
 
 # Job Title
-- company: Web Studio "PitriArt”
-  position: HTML coder
-  duration: October, 2011 &mdash; February 2012
-  summary: Implement mockup and design from Photoshop using HTML, Twig and CSS
-
-
-# Job Title
-- company: Studio Artm.cz Prague
-  position: HTML coder
-  duration: October, 2011 &mdash; March, 2012
-  summary: Implement mockup and design from Photoshop using HTML and CSS. Creating Joomla Site Templates. Create, develop and manage content. Proofread web content.
-
-
-# Job Title
-- company: Pagegrove LLC California
-  position: Front-end developer
-  duration:  March 2012 &mdash; January 2014
-  summary: Implement mockup and design from Photoshop using HTML and CSS. Creating visually appealing web pages or interfaces. Programming interaction with JavaScript and library such as jQuery. Participate in discussions with the customer every week and daily conversations with the team.
-
-# Job Title
-- company: JVL Labs
-  position: HTML coder
-  duration:  January 2014 &mdash; April 2014
-  summary: Html and css refactoring applications. Graphic optimization.
+- company: Forte group
+  position: Software Engineer
+  duration:  May 2018 &mdash; May 2020
+  summary: Oracle Commerce Cloud Developer
+  
   
 # Job Title
 - company: EPAM Systems
@@ -33,8 +14,26 @@
   summary: Creating visually appealing web pages or interfaces. Programming interaction with JavaScript.
 
 # Job Title
-- company: Forte group
-  position: Software Engineer
-  duration:  May 2018 &mdash; May 2020
-  summary: Oracle Commerce Cloud Developer
+- company: JVL Labs
+  position: HTML coder
+  duration:  January 2014 &mdash; April 2014
+  summary: Html and css refactoring applications. Graphic optimization.
+  
+# Job Title
+- company: Pagegrove LLC California
+  position: Front-end developer
+  duration:  March 2012 &mdash; January 2014
+  summary: Implement mockup and design from Photoshop using HTML and CSS. Creating visually appealing web pages or interfaces. Programming interaction with JavaScript and library such as jQuery. Participate in discussions with the customer every week and daily conversations with the team.
 
+# Job Title
+- company: Studio Artm.cz Prague
+  position: HTML coder
+  duration: October, 2011 &mdash; March, 2012
+  summary: Implement mockup and design from Photoshop using HTML and CSS. Creating Joomla Site Templates. Create, develop and manage content. Proofread web content.
+
+  
+# Job Title
+- company: Web Studio "PitriArt”
+  position: HTML coder
+  duration: October, 2011 &mdash; February 2012
+  summary: Implement mockup and design from Photoshop using HTML, Twig and CSS
